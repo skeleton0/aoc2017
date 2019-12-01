@@ -1,0 +1,6 @@
+[package]
+name = "day21_part2"
+version = "0.1.0"
+authors = ["skeletalLuk <34125010+skeletalLuk@users.noreply.github.com>"]
+
+[dependencies]
